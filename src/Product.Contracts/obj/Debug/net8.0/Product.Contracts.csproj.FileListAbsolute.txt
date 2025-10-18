@@ -1,0 +1,11 @@
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\bin\Debug\net8.0\Product.Contracts.deps.json
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\bin\Debug\net8.0\Product.Contracts.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\bin\Debug\net8.0\Product.Contracts.pdb
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.AssemblyInfoInputs.cache
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.AssemblyInfo.cs
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\refint\Product.Contracts.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.pdb
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\ref\Product.Contracts.dll

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Product.Contracts</id>
+    <version>1.0.2</version>
+    <authors>Product.Contracts</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\bin\Release\net8.0\Product.Contracts.dll" target="lib\net8.0\Product.Contracts.dll" />
+  </files>
+</package>

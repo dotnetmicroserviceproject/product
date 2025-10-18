@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Product.Contracts",
+    "\\Product.Contracts\\obj\\Debug",
+    "\\Product.Contracts\\obj\\Debug\\net8.0",
+    "\\Product.Service\\Features",
+    "\\Product.Service\\Features\\Products",
+    "\\Product.Service\\Features\\Products\\Handlers"
+  ],
+  "SelectedNode": "\\Product.Contracts\\Contracts.cs",
+  "PreviewInSolutionExplorer": false
+}

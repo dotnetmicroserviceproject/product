@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Product.Service</name>
+    </assembly>
+    <members>
+        <member name="M:Product.Service.Controllers.ProductController.GetProducts">
+            <summary>
+            Get all product endpoint
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Product.Service.Controllers.ProductController.GetProductById(System.Guid)">
+            <summary>
+            Get product by product Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Product.Service.Controllers.ProductController.CreateProduct(Product.Service.Features.Products.Dtos.ProductCreationDto)">
+            <summary>
+            Add Product - add a product 
+            </summary>
+        </member>
+        <member name="M:Product.Service.Controllers.ProductController.DeleteProductById(System.Guid)">
+            <summary>
+            Product Deletion - deletes a product 
+            </summary>
+        </member>
+        <member name="M:Product.Service.Controllers.ProductController.UpdateProduct(System.Guid,Product.Service.Features.Products.Dtos.UpdateProductDto)">
+            <summary>
+            Edit user products with update timestamp
+            </summary>
+            <param name="id"></param>
+            <param name="updateProductDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
