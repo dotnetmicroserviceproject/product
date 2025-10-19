@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Product.Contracts.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Product.Contracts.csproj",
         "projectName": "Product.Contracts",
@@ -26,8 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\packages": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/dotnetmicroserviceproject/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -92,8 +92,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\packages": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/dotnetmicroserviceproject/index.json": {}
         },
         "frameworks": {
           "net8.0": {

@@ -7,6 +7,13 @@
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\product.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:product.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98697B5A-E79A-4A42-80AD-CD676ED339DC}|..\\Product.Contracts\\Product.Contracts.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.contracts\\product.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,15 +26,8 @@
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\product.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:product.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98697B5A-E79A-4A42-80AD-CD676ED339DC}|..\\Product.Contracts\\Product.Contracts.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.contracts\\product.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\features\\products\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -108,21 +108,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 242,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Policies.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Policies.cs",
-              "RelativeDocumentMoniker": "Policies.cs",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Policies.cs",
-              "RelativeToolTip": "Policies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T08:55:29.67Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -131,27 +118,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T13:13:30.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T10:39:24.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -159,8 +133,57 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T10:40:26.665Z",
+              "WhenOpened": "2025-10-09T10:40:26.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj",
+              "RelativeDocumentMoniker": "Product.Service.csproj",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj",
+              "RelativeToolTip": "Product.Service.csproj",
+              "ViewState": "AgIAAAUAAACgbduGAzgowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T12:58:42.639Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Product.Contracts.csproj",
+              "RelativeDocumentMoniker": "..\\Product.Contracts\\Product.Contracts.csproj",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Product.Contracts.csproj",
+              "RelativeToolTip": "..\\Product.Contracts\\Product.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T11:57:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T10:39:24.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Policies.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Policies.cs",
+              "RelativeDocumentMoniker": "Policies.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Policies.cs",
+              "RelativeToolTip": "Policies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:55:29.67Z"
             },
             {
               "$type": "Document",
@@ -172,12 +195,11 @@
               "RelativeToolTip": "Features\\Products\\Handlers\\AddProductCommandHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwCwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T13:03:47.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T13:03:47.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -185,21 +207,7 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T12:54:22.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.Contracts",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Product.Contracts.csproj",
-              "RelativeDocumentMoniker": "..\\Product.Contracts\\Product.Contracts.csproj",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Product.Contracts.csproj",
-              "RelativeToolTip": "..\\Product.Contracts\\Product.Contracts.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-17T11:57:14.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T12:54:22.165Z"
             },
             {
               "$type": "Document",
@@ -212,19 +220,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:20:57.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.Service.csproj",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj",
-              "RelativeDocumentMoniker": "Product.Service.csproj",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj",
-              "RelativeToolTip": "Product.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T12:58:42.639Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -3,9 +3,9 @@
   <metadata>
     <id>Product.Contracts</id>
     <version>1.0.3</version>
-    <authors>Product.Contracts</authors>
-    <description>Package Description</description>
-    <repository type="git" />
+    <authors>Odedame Bright</authors>
+    <description>Contracts library for the Product microservice</description>
+    <repository type="git" url="https://github.com/dotnetmicroserviceproject/product" commit="1aaa03a7b3d91e796f4a9fe39bba22d034f317e3" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>

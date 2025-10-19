@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RfnZyCuILag=",
+  "dgSpecHash": "N5OObxFs/o4=",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj",
   "expectedPackageFiles": [
@@ -94,7 +94,8 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\product.contracts\\1.0.2\\product.contracts.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }

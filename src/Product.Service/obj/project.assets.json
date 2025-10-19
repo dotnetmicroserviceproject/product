@@ -1644,7 +1644,7 @@
           "lib/net7.0/ZstdSharp.dll": {}
         }
       },
-      "Product.Contracts/1.0.0": {
+      "Product.Contracts/1.0.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
@@ -4257,7 +4257,7 @@
         "zstdsharp.port.nuspec"
       ]
     },
-    "Product.Contracts/1.0.0": {
+    "Product.Contracts/1.0.2": {
       "type": "project",
       "path": "../Product.Contracts/Product.Contracts.csproj",
       "msbuildProject": "../Product.Contracts/Product.Contracts.csproj"
@@ -4270,7 +4270,7 @@
       "MassTransit.RabbitMQ >= 8.5.4",
       "MediatR >= 13.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.20",
-      "Product.Contracts >= 1.0.0",
+      "Product.Contracts >= 1.0.2",
       "common >= 1.1.8"
     ]
   },
@@ -4300,8 +4300,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\packages": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/dotnetmicroserviceproject/index.json": {}
       },
       "frameworks": {
         "net8.0": {

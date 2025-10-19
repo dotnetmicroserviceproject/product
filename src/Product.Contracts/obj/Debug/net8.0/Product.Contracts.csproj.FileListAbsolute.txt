@@ -9,3 +9,4 @@ C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts
 C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\refint\Product.Contracts.dll
 C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.pdb
 C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\ref\Product.Contracts.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Product\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.sourcelink.json
