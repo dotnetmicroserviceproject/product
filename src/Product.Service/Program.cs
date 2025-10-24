@@ -25,11 +25,12 @@ builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 builder.Services.AddMongo()
     .AddMongoRepository<Items>("Items")
-    .AddMassTransitWithRabiitMq(retryConfigurator =>
-    {
+     .AddJwtBearerAuthentication();
+builder.Services.AddMassTransitWithMessageBroker(builder.Configuration, retryConfigurator =>
+{
         retryConfigurator.Interval(3, TimeSpan.FromSeconds(5));
-    })
-    .AddJwtBearerAuthentication();
+});
+   
 
     builder.Services.AddAuthorization(options =>
     {
@@ -82,13 +83,12 @@ app.UseSwaggerUI(
 
 app.UseHttpsRedirection();
 app.UseCors("AllowAllOrigins");
+
+app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.UseEndpoints(endpoints =>
-{
-     endpoints.MapControllers();
-     endpoints.MapPlayEconomyHealthChecks();
-});
+app.MapControllers();
+app.MapPlayEconomyHealthChecks();
 
 app.Run();

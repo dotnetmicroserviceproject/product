@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:product.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98697B5A-E79A-4A42-80AD-CD676ED339DC}|..\\Product.Contracts\\Product.Contracts.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.contracts\\product.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98697B5A-E79A-4A42-80AD-CD676ED339DC}|..\\Product.Contracts\\Product.Contracts.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.contracts\\product.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +85,6 @@
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:features\\products\\dtos\\getproductsqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\product\\src\\product.service\\features\\products\\mappers\\productmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B045A56-5D5A-4DF3-AB98-04708FB5A41D}|Product.Service.csproj|solutionrelative:features\\products\\mappers\\productmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -118,14 +118,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T13:13:30.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -141,16 +141,16 @@
               "Title": "Product.Service.csproj",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj",
               "RelativeDocumentMoniker": "Product.Service.csproj",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj",
-              "RelativeToolTip": "Product.Service.csproj",
-              "ViewState": "AgIAAAUAAACgbduGAzgowBkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Product.Service.csproj*",
+              "RelativeToolTip": "Product.Service.csproj*",
+              "ViewState": "AgIAAAUAAACgbduGAzgowAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-08T12:58:42.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Product.Contracts.csproj",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Product.Contracts.csproj",
               "RelativeDocumentMoniker": "..\\Product.Contracts\\Product.Contracts.csproj",
@@ -163,7 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T11:55:17.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -175,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Policies.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Policies.cs",
               "RelativeDocumentMoniker": "Policies.cs",
@@ -187,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AddProductCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Handlers\\AddProductCommandHandler.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Handlers\\AddProductCommandHandler.cs",
@@ -199,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -211,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Contracts.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Contracts\\Contracts.cs",
               "RelativeDocumentMoniker": "..\\Product.Contracts\\Contracts.cs",
@@ -223,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Dtos\\ProductDto.cs",
@@ -235,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProductCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Dtos\\ProductCreationDto.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Dtos\\ProductCreationDto.cs",
@@ -247,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UpdateProductCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Handlers\\UpdateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Handlers\\UpdateProductCommandHandler.cs",
@@ -259,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AddProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Commands\\AddProductCommand.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Commands\\AddProductCommand.cs",
@@ -271,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DeleteProductByIdCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Handlers\\DeleteProductByIdCommandHandler.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Handlers\\DeleteProductByIdCommandHandler.cs",
@@ -283,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UpdateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Commands\\UpdateProductCommand.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Commands\\UpdateProductCommand.cs",
@@ -295,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GetProductByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
@@ -307,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GetProductsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Handlers\\GetProductsQueryHandler.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Handlers\\GetProductsQueryHandler.cs",
@@ -319,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UpdateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Dtos\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Dtos\\UpdateProductDto.cs",
@@ -331,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Items.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Entities\\Items.cs",
               "RelativeDocumentMoniker": "Entities\\Items.cs",
@@ -343,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GetProductsQueryParameters.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Features\\Products\\Dtos\\GetProductsQueryParameters.cs",
               "RelativeDocumentMoniker": "Features\\Products\\Dtos\\GetProductsQueryParameters.cs",
@@ -352,18 +365,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T13:02:49.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Product\\src\\Product.Service\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-10T11:55:17.511Z"
             },
             {
               "$type": "Document",
